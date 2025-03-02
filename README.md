@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 
 ## Overview
-Welcome to my data analyst portfolio! This repository showcases my data cleaning, exploration, visualization, and analysis skills using various tools like Python, SQL, and Tableau.
+Welcome to my data analyst portfolio! This repository showcases my data cleaning, exploration, visualization, API integration, web scraping, and analysis skills using various tools like Python, R, SQL, and Tableau.
 
 ## Projects
 
