@@ -20,7 +20,7 @@ Welcome to my data analyst portfolio! This repository showcases my data cleaning
 - **Skills**: DML(Data Manipulation Language), DQL (Data Query Language), data visualization
 - **Tools Used**: SQL Server, [Tableau](https://public.tableau.com/app/profile/reem.saeed7356/viz/BankLoans2021/Overview).
 
-### [Analyzing Tesla's Historical Stock-Revenue Data](https://github.com/ReemSaeedMetwally/Data_Analysis_Portfolio/tree/main/Web%20Scraping%20Tesla's%20Historical%20Stock-Revenue%20Data)
+### [Analyzing Tesla's Historical Stock-Revenue Data](https://github.com/ReemSaeedMetwally/Data_Analysis_Portfolio/tree/main/Analyzing%20Tesla's%20Historical%20Stock-Revenue%20Data)
 - **Description**: This project analyzes Tesla’s historical stock prices and revenue trends to understand its financial performance. The data is extracted using Yahoo Finance for stock prices and web scraping (BeautifulSoup) for Tesla's quarterly revenue. The project visualizes the relationship between stock price movements and revenue trends using interactive Plotly graphs.  
 The analysis aims to:
   * Compare Tesla’s stock price fluctuations with its revenue growth.
