@@ -23,6 +23,11 @@ The analysis aims to:
   * Data Visualization: Matplotlib, Seaborn
   * Data Processing: pandas, NumPy
 
+### [Diamonds Data Analysis](https://github.com/ReemSaeedMetwally/Data_Analysis_Portfolio/tree/main/Diamonds%20Data%20Analysis)
+- **Description**: This project analyzes the Diamonds dataset to explore factors affecting diamond prices. It applies data cleaning, visualization, and statistical modeling to uncover insights into how cut, clarity, carat, and other features influence diamond pricing. The project uses tidyverse and ggplot2 for data manipulation & visualization, along with regression modeling to predict prices.
+- **Skills**: Data wrangling, Exploratory Data Analysis (EDA), Data visualization, Statistical analysis & hypothesis testing, Regression modeling
+- **Tools Used**: R programming, tidyverse (dplyr, ggplot2, tidyr), ggplot2 for data visualization, lm() for regression modeling, RStudio as the development environment
+
 ### [World Population Data Analysis](https://github.com/ReemSaeedMetwally/Data_Analysis_Portfolio/tree/main/World%20Population%20Exploratory%20Data%20Analysis)
 - **Description**: The dataset contains a list of countries and their yearly populations. The project includes the following steps: data loading, EDA (exploratory data analysis), and Data Visualization using Matplotlib to uncover key insights.
 - **Skills**: Exploratory data analysis, data visualization.
