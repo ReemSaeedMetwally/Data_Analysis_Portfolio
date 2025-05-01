@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 
 ## Overview
-Welcome to my data analyst portfolio! This repository showcases my data cleaning, exploration, visualization, API integration, web scraping, and analysis skills using various tools, such as Python, R, SQL, and Tableau.
+Welcome to my data analyst portfolio! This repository showcases my data cleaning, exploration, visualization, API integration, web scraping, and analysis skills using various tools, such as Python, R, SQL, Power BI, and Tableau.
 
 ## Projects
 
@@ -22,6 +22,13 @@ The analysis aims to:
   * Machine Learning: scikit-learn (Linear Regression, Ridge, Random Forest, Cross-Validation)
   * Data Visualization: Matplotlib, Seaborn
   * Data Processing: pandas, NumPy
+ 
+### [Uber Data Analysis Dashboard]()
+- **Description**: This project presents a full Power BI dashboard analyzing Uber ride data from 2016. The goal was to uncover patterns in user behavior, trip timing, distance, and purpose to support business decisions. The process included detailed ETL using Power Query (data cleaning, formatting, forward fill, unit conversion), followed by feature engineering (time-of-day categories, duration calculations). Interactive visuals enabled dynamic filtering by location, date, and time. Key findings supported actionable insights in driver allocation, trip category trends, and demand forecasting.
+- **Skills**: ETL with Power Query, Data Cleaning, Feature Engineering, Exploratory Data Analysis (EDA), Dashboard Design, Business Insight Extraction, KPI Reporting, Story-telling.
+- **Tools Used**:
+  * Power BI: Data Modeling, Power Query, DAX, Visual Design
+  * Business Intelligence Concepts: Filtering, Slicers, Trend Analysis
 
 ### [Diamonds Data Analysis](https://github.com/ReemSaeedMetwally/Data_Analysis_Portfolio/tree/main/Diamonds%20Data%20Analysis)
 - **Description**: This project analyzes the Diamonds dataset to explore factors affecting diamond prices. It applies data cleaning, visualization, and statistical modeling to uncover insights into how cut, clarity, carat, and other features influence diamond pricing. The project uses tidyverse and ggplot2 for data manipulation & visualization, along with regression modeling to predict prices.
