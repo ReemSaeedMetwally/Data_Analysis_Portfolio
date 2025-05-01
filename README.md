@@ -23,7 +23,7 @@ The analysis aims to:
   * Data Visualization: Matplotlib, Seaborn
   * Data Processing: pandas, NumPy
  
-### [Uber Data Analysis Dashboard]()
+### [Uber Data Analysis Dashboard](https://github.com/ReemSaeedMetwally/Data_Analysis_Portfolio/tree/main/Uber%20Data%20Analysis%20Dashboard)
 - **Description**: This project presents a full Power BI dashboard analyzing Uber ride data from 2016. The goal was to uncover patterns in user behavior, trip timing, distance, and purpose to support business decisions. The process included detailed ETL using Power Query (data cleaning, formatting, forward fill, unit conversion), followed by feature engineering (time-of-day categories, duration calculations). Interactive visuals enabled dynamic filtering by location, date, and time. Key findings supported actionable insights in driver allocation, trip category trends, and demand forecasting.
 - **Skills**: ETL with Power Query, Data Cleaning, Feature Engineering, Exploratory Data Analysis (EDA), Dashboard Design, Business Insight Extraction, KPI Reporting, Story-telling.
 - **Tools Used**:
