@@ -29,6 +29,7 @@ The analysis aims to:
 - **Tools Used**:
   * Power BI: Data Modeling, Power Query, DAX, Visual Design
   * Business Intelligence Concepts: Filtering, Slicers, Trend Analysis
+- **Dashboard** : [Uber Data Analaysis](https://app.powerbi.com/view?r=eyJrIjoiNmU5YzZiZGUtYWZlYy00YzY3LWFiNDAtMDUzNGIxMDllNDY4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ### [Diamonds Data Analysis](https://github.com/ReemSaeedMetwally/Data_Analysis_Portfolio/tree/main/Diamonds%20Data%20Analysis)
 - **Description**: This project analyzes the Diamonds dataset to explore factors affecting diamond prices. It applies data cleaning, visualization, and statistical modeling to uncover insights into how cut, clarity, carat, and other features influence diamond pricing. The project uses tidyverse and ggplot2 for data manipulation & visualization, along with regression modeling to predict prices.
@@ -48,7 +49,8 @@ The analysis aims to:
 ### [Financial Loan Data Visualization](https://github.com/ReemSaeedMetwally/Data_Analysis_Portfolio/tree/main/Bank%20Loan)
 - **Description**: The dataset contains a list of Loan applicants' information (Full Name, Funded Amount, Received Amount, Loan Term, etc.). This project includes the following steps: data loading, EDA (exploratory data analysis), and Data Visualization using Tableau to uncover key insights.
 - **Skills**: DML(Data Manipulation Language), DQL (Data Query Language), data visualization
-- **Tools Used**: SQL Server, [Tableau](https://public.tableau.com/app/profile/reem.saeed7356/viz/BankLoans2021/Overview).
+- **Tools Used**: SQL Server, Tableau.
+- **Dashboard**: [Financial Loan Data](https://public.tableau.com/app/profile/reem.saeed7356/viz/BankLoans2021/Overview)
 
 ### [Customer Call List Data Cleaning](https://github.com/ReemSaeedMetwally/Data_Analysis_Portfolio/tree/main/Customer%20Call%20List%20Data%20Cleaning)
 - **Description**: The dataset contains a list of customers' information (Full Name, Mobile Number, Address, etc.). This project includes the following steps: data loading, data cleaning, and preprocessing.
